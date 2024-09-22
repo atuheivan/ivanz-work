@@ -5,7 +5,7 @@ $address="Mbarara.";
 echo"Nam:".$nam;
 echo"\nDOB:".$date;
 echo"\nAddress:".$address;
-echo"\n You are welcome home ".$name;
+echo"\n You are welcome home ".$nam;
 $current=2024;
 $previous=2002;
 $Age=$current -$previous;
